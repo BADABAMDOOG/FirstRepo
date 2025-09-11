@@ -8,20 +8,20 @@ namespace ConsoleGit
         static void Main(string[] args)
         {  
             
-            //ÆÐÄ¡ ÇÏ°í Ç®·Î ¶¯°Ü¿À°í 
-            //·ÎÄÃ¿¡¼­ Ä¿¹ÔÀ» »õ·Î ¸¸µé°í , Çª½¬ÇÏ°í
+            //íŒ¨ì¹˜ í•˜ê³  í’€ë¡œ ë•¡ê²¨ì˜¤ê³  
+            //ë¡œì»¬ì—ì„œ ì»¤ë°‹ì„ ìƒˆë¡œ ë§Œë“¤ê³  , í‘¸ì‰¬í•˜ê³ 
             
 
-            //ÄÚµå »õ·Î ÀÛ¼ºÇÏ±â Àü¿¡ ¸ÕÀú!
-            //FetchºÎÅÍ ¹Þ°í , ÃÖ½Åº»À» ¸ÕÀú Ç® ¹Þ°í
-            //±× ´ÙÀ½¿¡ ±× ÃÖ½Åº»ºÎÅÍ º¯µ¿»çÇ×À» ¸¸µé¾î¼­ Ä¿¹ÔÀ» ¸¸µé°í 
-            //±×±× ÃÖ½Åº»À» Çª½ÃÇÑ´Ù
+            //ì½”ë“œ ìƒˆë¡œ ìž‘ì„±í•˜ê¸° ì „ì— ë¨¼ì €!
+            //Fetchë¶€í„° ë°›ê³  , ìµœì‹ ë³¸ì„ ë¨¼ì € í’€ ë°›ê³ 
+            //ê·¸ ë‹¤ìŒì— ê·¸ ìµœì‹ ë³¸ë¶€í„° ë³€ë™ì‚¬í•­ì„ ë§Œë“¤ì–´ì„œ ì»¤ë°‹ì„ ë§Œë“¤ê³  
+            //ê·¸ê·¸ ìµœì‹ ë³¸ì„ í‘¸ì‹œí•œë‹¤
 
 
 
-            //Ã»±â¹é±â
+            //ì²­ê¸°ë°±ê¸°
 
-            Console.WriteLine("Hello");
+            Console.WriteLine("He");
             Console.WriteLine("Hell");
             Console.WriteLine("Hell");
             
