@@ -9,8 +9,8 @@ namespace ConsoleGit
         {
 
             Console.WriteLine("HelloGit");
-            //이렇게 적고 저장까지!
-        
+           
+            
         }
 
     
